@@ -9,6 +9,9 @@ int main() {
 	FurniturePart p3 = FurniturePart(600, 50);
 	JewelyPart j1 = JewelyPart(p3, 10);
 
+
+    // fnakljfbakfbas
+
 	Furniture f1 = Furniture(p1, 2, p2, 10, p3, 5, 100);
 	std::cout << "Full price: " << f1.getFullPrice() << "\n";
 	

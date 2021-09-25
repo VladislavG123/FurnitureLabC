@@ -1,6 +1,7 @@
 #pragma once
 #include "FurniturePart.h"
 #include <vector>
+
 class NewFurniture
 {
 private:
